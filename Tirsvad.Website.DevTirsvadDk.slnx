@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Application/Tirsvad.Website.DevTirsvadDk.Application.csproj" />
+    <Project Path="src/Domain/Tirsvad.Website.DevTirsvadDk.Domain.csproj" />
+    <Project Path="src/Infrastructure/Tirsvad.Website.DevTirsvadDk.Infrastructure.csproj" />
+    <Project Path="src/Web/Tirsvad.Website.DevTirsvadDk.Web.Client/Tirsvad.Website.DevTirsvadDk.Web.Client.csproj" />
+    <Project Path="src/Web/Tirsvad.Website.DevTirsvadDk.Web/Tirsvad.Website.DevTirsvadDk.Web.csproj" />
+    <Project Path="src/WebApi/Tirsvad.Website.DevTirsvadDk.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Application.Tests/Tirsvad.Website.DevTirsvadDk.Application.Tests.csproj" />
+    <Project Path="tests/Domain.Tests/Tirsvad.Website.DevTirsvadDk.Domain.Tests.csproj" />
+    <Project Path="tests/Infrastructure.Tests/Tirsvad.Website.DevTirsvadDk.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>
