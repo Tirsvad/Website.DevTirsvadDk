@@ -12,8 +12,10 @@ tools:
 references:
   - docs/bc.md
   - docs/furps.md
+  - docs/risk-and-mitigation.md
+  - docs/glossary.md
   - .github/instructions/furps.instructions.md
-  - docs/quality-criteria/OOA/qc-furps.md
+  - docs/quality-criteria/ooa/qc-furps.md
 ---
 
 # FURPS Artifact Agent Specification
@@ -21,12 +23,13 @@ references:
 ## Responsibilities
 - Automate the evaluation, generation, and maintenance of FURPS artifact documentation.
 - Enforce compliance with `.github/instructions/furps.instructions.md` for FURPS artifact structure and content.
-- Ensure all requirements in FURPS artifacts use the `REQ-<category>-<number>` format for IDs (e.g., REQ-F-001, REQ-U-001, etc.), as specified in `docs/quality-criteria/OOA/qc-furps.md`.
+- Ensure all requirements in FURPS artifacts use the `REQ-<category>-<number>` format for IDs (e.g., REQ-F-001, REQ-U-001, etc.), as specified in `docs/quality-criteria/ooa/qc-furps.md`.
 - Ensure that all '+' (plus) requirements are split into their relevant subcategories (e.g., Design Constraints, Implementation, Interface, Physical, Security, etc.) and not grouped as a single category.
 - Ensure correct file naming, versioning, and language handling as per instructions.
 - Add new terms to glossary files when instructed.
 - Validate FURPS artifacts for completeness, clarity, and template compliance (not quality criteria).
 - Trigger the KPI Agent to update corresponding KPI artifacts after any FURPS artifact change.
+- Treat identified risks as actionable tasks: when a FURPS artifact is changed, trigger the creation or update of a corresponding risk entry or task in the risk register.
 - Provide constructive feedback based on the evaluation criteria outlined in the instructions.
 
 ## Workflow Triggers

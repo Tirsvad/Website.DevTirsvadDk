@@ -11,7 +11,7 @@ tools:
   - update/crossReference
 references:
   - .github/instructions/kpi.instructions.md
-  - docs/quality-criteria/OOA/qc-kpi.md
+  - docs/quality-criteria/ooa/qc-kpi.md
   - docs/furps.md
   - docs/bc.md
   - docs/glossary.md
@@ -29,6 +29,7 @@ references:
 - Add new terms to glossary files when instructed.
 - Validate KPI artifacts for completeness, clarity, and template compliance (not quality criteria).
 - Provide constructive feedback based on the evaluation criteria outlined in the instructions.
+- For Risk Management, ensure KPIs explicitly include metrics for high and medium level risks (e.g., count of high risks, count of medium risks, mitigation status for each).
 
 ## Workflow Triggers
 - On "Evaluate" or "Assess" KPI artifact: use the `evaluate` tool with the artifact file path and specific evaluation criteria.
