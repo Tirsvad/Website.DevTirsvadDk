@@ -6,16 +6,14 @@ tools:
   - edit/editFiles
   - search
   - lookup
-  - delete
+  - evaluate
+  - validate/markdown
   - update/glossary
   - update/crossReference
 references:
   - docs/bc.md
   - .github/instructions/usecase.instructions.md
-  - docs/quality-criteria/artifact/qc-usecase.md
-  - docs/furps.md
-  - docs/kpi.md
-  - docs/risk-analysis.md
+  - docs/milestones-gateways.md
 ---
 
 # Use Case (UC) Agent Specification
@@ -40,7 +38,7 @@ references:
 
 ## Language Handling
 - Use professional English for all metadata, versioning, and the default UC file.
-- If the product owner’s domain language is not English, also generate a UC file in that language (append language code, e.g., `.da.md` for Danish) and include a `## Terms Translation` section if needed.
+- If the product owner’s domain language is not English, also generate a UC file in that language (append language code, e.g., `.<language code>.md`) and include a `## Terms Translation` section if needed.
 - Both English and translated UC files must be present and up to date.
 
 ## Compliance
