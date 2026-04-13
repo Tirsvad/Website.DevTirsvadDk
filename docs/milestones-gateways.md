@@ -22,7 +22,7 @@ gantt
 ## Gateways & Milestones
 | Milestone/Gateway                | Description                                                                 | Entry Criteria                                 | Exit Criteria                                 |
 |----------------------------------|-----------------------------------------------------------------------------|------------------------------------------------|-----------------------------------------------|
-| Gateway 1: Project Setup Complete| Project structure, environment, authentication, quality criteria, copilot.  | Repositories and environment configured        | All setup tasks completed and verified        |
+| Gateway 1: Project Setup Complete| Project structure, environment, authentication, quality criteria, copilot.  | IDE configured and TirsvadCLI.Default files downloaded | All setup tasks completed and verified        |
 | Gateway 2: API & Frontend Ready  | WebAPI endpoints, backend logic, Blazor frontend for project status.         | Backend and API endpoints implemented, DB ready| API and frontend tested, status visible      |
 | Gateway 3: Blog & User Testing Complete | Blog post feature, integration, user testing, feedback.                  | Blog feature implemented, integrated, test plan| User testing complete, feedback addressed    |
 

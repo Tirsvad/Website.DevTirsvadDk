@@ -65,12 +65,12 @@ title Project Milestones and Gateways
 | Gateway 2         | ...         | ...           | ...           |
 
 ## Use cases associated with each milestone/gateway
-| Use Case ID | Description | Milestone/Gateway | Reference |
-|-------------|-------------|-------------------|-----------|
-| uc-001      | ...         | Gateway 1         | REQ-xx-xxx|
-| uc-002      | ...         | Gateway 1         | REQ-xx-xxx|
-| uc-003      | ...         | Gateway 2         | REQ-xx-xxx|
-| uc-004      | ...         | Gateway 2         | REQ-xx-xxx|
+| Use Case ID | Description | Milestone/Gateway | CrossReference |
+|-------------|-------------|-------------------|----------------|
+| uc-001      | ...         | Gateway 1         | REQ-xx-xxx     |
+| uc-002      | ...         | Gateway 1         | REQ-xx-xxx     |
+| uc-003      | ...         | Gateway 2         | REQ-xx-xxx     |
+| uc-004      | ...         | Gateway 2         | REQ-xx-xxx     |
 ```
 
 ---
