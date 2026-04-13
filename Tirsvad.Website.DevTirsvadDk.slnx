@@ -2,6 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/Application/Tirsvad.Website.DevTirsvadDk.Application.csproj" />
     <Project Path="src/Domain/Tirsvad.Website.DevTirsvadDk.Domain.csproj" />
+    <Project Path="src/Infrastructure.Data/Tirsvad.Website.DevTirsvadDk.Infrastructure.Data.csproj" />
     <Project Path="src/Infrastructure/Tirsvad.Website.DevTirsvadDk.Infrastructure.csproj" />
     <Project Path="src/Web/Tirsvad.Website.DevTirsvadDk.Web.Client/Tirsvad.Website.DevTirsvadDk.Web.Client.csproj" />
     <Project Path="src/Web/Tirsvad.Website.DevTirsvadDk.Web/Tirsvad.Website.DevTirsvadDk.Web.csproj" />
@@ -10,6 +11,7 @@
   <Folder Name="/tests/">
     <Project Path="tests/Application.Tests/Tirsvad.Website.DevTirsvadDk.Application.Tests.csproj" />
     <Project Path="tests/Domain.Tests/Tirsvad.Website.DevTirsvadDk.Domain.Tests.csproj" />
+    <Project Path="tests/Infrastructure.Data.Tests/Infrastructure.Data.Tests.csproj" Id="59f1f7e2-d2a9-40f4-a32e-13fc115dd8cd" />
     <Project Path="tests/Infrastructure.Tests/Tirsvad.Website.DevTirsvadDk.Infrastructure.Tests.csproj" />
   </Folder>
 </Solution>
