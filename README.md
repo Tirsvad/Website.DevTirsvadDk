@@ -54,9 +54,10 @@ According to `docs/bc.md`, the solution is being built to:
 
 The repository is structured around Clean Architecture concerns:
 
-- `src/Domain` - domain entities, value objects, and core business concepts
-- `src/Application` - application services, DTOs, interfaces, and use case orchestration
-- `src/Infrastructure` - persistence and repository concerns
+- `src/Domain` - Domain entities, value objects, and core business concepts
+- `src/Application` - Application services, DTOs, interfaces, and use case orchestration. This layer should be independent of frameworks
+- `src/Infrastructure` - Manager implementations, e.g. for authentication, authorization, and other cross-cutting concerns
+- `src/Infrastructure.Data` - data access implementations, e.g. Entity Framework Core
 - `src/WebApi` - backend HTTP API endpoints and OpenAPI support
 - `src/Web` - Blazor frontend for the project status website
 - `tests/*` - mirrored automated test projects for the main layers
@@ -71,11 +72,13 @@ The current implementation targets `net10.0` in both the web and API application
 │  ├─ Application/
 │  ├─ Domain/
 │  ├─ Infrastructure/
+│  ├─ Infrastructure.Data/
 │  ├─ Web/
 │  └─ WebApi/
 ├─ tests/
 │  ├─ Application.Tests/
 │  ├─ Domain.Tests/
+│  ├─ Infrastructure.Data.Tests/
 │  └─ Infrastructure.Tests/
 ├─ docs/
 ├─ .github/

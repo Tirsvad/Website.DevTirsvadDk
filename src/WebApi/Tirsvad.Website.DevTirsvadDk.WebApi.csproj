@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.5" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Application\Tirsvad.Website.DevTirsvadDk.Application.csproj" />
+    <ProjectReference Include="..\Infrastructure.Data\Tirsvad.Website.DevTirsvadDk.Infrastructure.Data.csproj" />
   </ItemGroup>
 
 </Project>
