@@ -31,7 +31,14 @@ references:
 
 ## Example:
 ```markdown
-[![NuGet Downloads][nuget-shield]][nuget-url][![Contributors][contributors-shield]][contributors-url][![Forks][forks-shield]][forks-url][![Stargazers][stars-shield]][stars-url][![Issues][issues-shield]][issues-url][![License][license-shield]][license-url][![LinkedIn][linkedin-shield]][linkedin-url]
+[![NuGet Downloads][nuget-shield]][nuget-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![License][license-shield]][license-url]
+[![Forks][forks-shield]][forks-url]
+[![Stars][stars-shield]][stars-url]
+[![Repo Size][repo-size-shield]][repo-size-url]
+[![.NET 10][dotnet-shield]][dotnet-url]
+[![Issues][issues-shield]][issues-url]
 
 # ![Logo][logo] Example Project
 
