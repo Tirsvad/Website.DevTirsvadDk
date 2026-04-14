@@ -1,12 +1,10 @@
+# Business Model Canvas (BMC) for Project Transparency
+
 ## Metadata
 | Key               | Value                             |
 |-------------------|-----------------------------------|
 | Id                | BMC                               |
 | crossReference    |                                   |
-
-## Version
-- **Version**: 0001
-- **Date**: 2026-03-29
 
 ## Version Log
 | Version | Date       | Description              | Author     |
