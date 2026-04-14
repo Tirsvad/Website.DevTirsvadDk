@@ -35,6 +35,8 @@ jobs:
         run: sudo apt-get install -y doxygen graphviz
       - name: Generate Docs
         run: doxygen Doxyfile
+      - name: Copy Google owners file to Doxygen HTML
+        run: cp ./tools/github-pages/google74ed2eefe62ffac5.html ./docs/doxygen/html/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
@@ -42,11 +44,6 @@ jobs:
         with:
           # Upload entire repository
           path: './docs/doxygen/html'
-      - name: Upload google owners file
-        uses: actions/upload-pages-artifact@v3
-        with:
-          # Upload the google owners file to the root of the Pages site
-          path: './tools/github-pages/google74ed2eefe62ffac5.html'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
