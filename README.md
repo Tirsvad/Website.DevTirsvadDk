@@ -12,17 +12,17 @@ Website is a .NET 10 solution for `dev.tirsvad.dk` that presents project status 
 
 ## 📚 Table of Contents
 
-- [Overview](#overview)
-- [Solution Goals](#solution-goals)
-- [Architecture](#architecture)
-- [Repository Structure](#repository-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Documentation](#documentation)
-- [Roadmap](#roadmap)
-- [License](#license)
-- [Contact](#contact)
+- [🚀 Overview](#-overview)
+- [🎯 Solution Goals](#-solution-goals)
+- [🏗️ Architecture](#-architecture)
+- [🗂️ Repository Structure](#-repository-structure)
+- [🛠️ Prerequisites](#-prerequisites)
+- [📦 Installation](#-installation)
+- [▶️ Usage](#-usage)
+- [📝 Documentation](#-documentation)
+- [🗺️ Roadmap](#-roadmap)
+- [📄 License](#-license)
+- [📬 Contact](#-contact)
 
 ## 🚀 Overview
 
