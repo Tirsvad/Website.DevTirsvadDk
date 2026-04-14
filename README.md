@@ -201,4 +201,4 @@ Jens Tirsvad Nielsen
 [build-shield]: https://img.shields.io/github/workflow/status/[InsertOwner]/[InsertRepo]/[InsertWorkflowName]?style=for-the-badge
 
 <!-- Logo -->
-[logo]: https://raw.githubusercontent.com/TirsvadCLI/Dotnet.Lib.MenuPaginator/master/image/logo/32x32/logo.png
+[logo]: https://raw.githubusercontent.com/TirsvadCLI/Logo/refs/heads/main/images/logo/32x32/logo.png
