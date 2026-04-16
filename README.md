@@ -7,27 +7,28 @@
 [![Issues][issues-shield]][issues-url]
 
 # Project Status Portfolio Website
-<img  style="float: left; margin: 5px 10px 0 0;" src="https://raw.githubusercontent.com/TirsvadCLI/Logo/refs/heads/main/images/logo/64x64/logo.png">
+<div><img  style="float: left; margin: 5px 10px 0 0;" src="https://raw.githubusercontent.com/TirsvadCLI/Logo/refs/heads/main/images/logo/64x64/logo.png">
 Website is a .NET 10 solution for `dev.tirsvad.dk` that presents project status information in our portfolio to stakeholders through a Blazor frontend and a WebAPI backend. The solution is intended to improve transparency, communication, and decision-making by exposing project goals, milestones, risks, quality criteria, README content, code coverage, code documentation, and related status artifacts in one place.
+</div>
 
 ## 📚 Table of Contents
 
-- [🚀 Overview](#-overview)
-- [🎯 Solution Goals](#-solution-goals)
-- [🏗️ Architecture](#-architecture)
-- [🗂️ Repository Structure](#-repository-structure)
-- [🛠️ Prerequisites](#-prerequisites)
-- [📦 Installation](#-installation)
-- [▶️ Usage](#-usage)
-- [📝 Documentation](#-documentation)
-- [🗺️ Roadmap](#-roadmap)
-- [📄 License](#-license)
-- [📬 Contact](#-contact)
+- [Overview](#overview)
+- [Solution Goals](#solution-goals)
+- [Architecture](#architecture)
+- [Repository Structure](#repository-structure)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Documentation](#documentation)
+- [Roadmap](#roadmap)
+- [License](#license)
+- [Contact](#contact)
 
+<a name="overview"></a>
 ## 🚀 Overview
 
 The solution follows Clean Architecture principles and is organized around `Domain`, `Application`, `Infrastructure`, `Web`, and `WebApi` projects. It includes a Blazor-based web experience for stakeholders and a WebAPI service for backend access and integration scenarios.
-
 
 Current repository highlights:
 
@@ -38,6 +39,7 @@ Current repository highlights:
 - 🧪 Matching test projects in `tests/`
 - 📄 Architecture and use case documentation in `docs/`
 
+<a name="solution-goals"></a>
 ## 🎯 Solution Goals
 
 
@@ -52,6 +54,7 @@ According to `docs/bc.md`, the solution is being built to:
 - 📖 expose README, code coverage, and code documentation when available
 - 📝 support blog posts, comments, likes, and feedback-driven UX improvements
 
+<a name="architecture"></a>
 ## 🏗️ Architecture
 
 
@@ -68,6 +71,7 @@ The repository is structured around Clean Architecture concerns:
 
 The current implementation targets `net10.0` in both the web and API applications.
 
+<a name="repository-structure"></a>
 ## 🗂️ Repository Structure
 
 ```text
@@ -90,6 +94,7 @@ The current implementation targets `net10.0` in both the web and API application
 └─ Tirsvad.Website.DevTirsvadDk.slnx
 ```
 
+<a name="prerequisites"></a>
 ## 🛠️ Prerequisites
 
 
@@ -100,6 +105,7 @@ Before running the solution locally, install or prepare the following:
 - 🔐 HTTPS development certificate for ASP.NET Core
 - 🐘 PostgreSQL for the planned data storage requirements
 
+<a name="installation"></a>
 ## 📦 Installation
 
 ### 📥 Clone the repository
@@ -127,6 +133,7 @@ dotnet build .\Tirsvad.Website.DevTirsvadDk.slnx
 dotnet test .\Tirsvad.Website.DevTirsvadDk.slnx
 ```
 
+<a name="usage"></a>
 ## ▶️ Usage
 
 ### 🖥️ Run the Blazor web application
@@ -161,6 +168,7 @@ The API currently exposes a sample endpoint:
 
 In development, OpenAPI is enabled for the API project.
 
+<a name="documentation"></a>
 ## 📝 Documentation
 
 
@@ -174,6 +182,7 @@ Relevant starting points:
 - 🧾 `docs/use-cases/` - generated use case documentation
 - 🤖 `.github/copilot-instructions.md` - repository-wide development guidance
 
+<a name="roadmap"></a>
 ## 🗺️ Roadmap
 
 
@@ -183,11 +192,12 @@ The business case defines the current high-level delivery plan:
 2. 🌐 Build the WebAPI endpoints and Blazor frontend for project status information.
 3. 📝 Add blog functionality, integration, user testing, and UX refinements.
 
+<a name="license"></a>
 ## 📄 License
-
 
 This repository is licensed under the GNU Affero General Public License v3.0. See `LICENSE` for details.
 
+<a name="contact"></a>
 ## 📬 Contact
 
 Jens Tirsvad Nielsen  
@@ -211,4 +221,4 @@ Jens Tirsvad Nielsen
 [linkedin-url]: https://www.linkedin.com/in/jens-tirsvad-nielsen-13b795b9/
 
 <!-- Build Status -->
-[build-shield]: https://img.shields.io/github/workflow/status/[InsertOwner]/[InsertRepo]/[InsertWorkflowName]?style=for-the-badge
+[build-shield]: https://img.shields.io/github/workflow/status/Tirsvad/Website.DevTirsvadDk/deploy-static-content-to-pages?style=for-the-badge
