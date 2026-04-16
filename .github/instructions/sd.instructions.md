@@ -18,7 +18,7 @@ reference: 'docs/quality-criteria/ood/lld/qc-sd.md'
 
 ## SD Template (Minimal):
 ```markdown
-# [Insert Sequence Diagram Title]
+# OOD: Sequence Diagram for [Insert Sequence Diagram Title]
 
 
 ## Metadata
@@ -98,7 +98,7 @@ sequenceDiagram
 ## SD Example: UC-002 Dashboard ResidentNote
 
 ```markdown
-# UC-002 Dashboard ResidentNote Sequence Diagram
+# OOD: Sequence Diagram for UC-002 Dashboard ResidentNote
 
 ## Metadata
 | Key            | Value           |

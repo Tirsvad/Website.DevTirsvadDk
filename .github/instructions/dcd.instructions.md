@@ -66,11 +66,11 @@ Each class in the diagram should be placed in the appropriate namespace accordin
 ## DM Template
 ### Minimal Template:
 ```markdown
-# Domain Class Diagram (DCD) for [Insert Project Name]
+# OOD: Domain Class Diagram (DCD) for [Insert Project Name] - [Insert Use Case Identifier if applicable]
 ## Metadata
 | Key               | Value                             |
 |-------------------|-----------------------------------|
-| Id                | [Use case identifier].DCD            |
+| Id                | [Insert Use Case Identifier if applicable].DCD |
 | crossReference    |                                   |
 
 ## Version Log

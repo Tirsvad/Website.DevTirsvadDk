@@ -30,7 +30,7 @@ This file provides templates and instructions for documenting project milestones
 
 ## Templates
 ```markdown
-# Gateway for [insert preject name]
+# OOA: Gateway for [insert project name]
 
 ## Metadata
 | Key               | Value                             |

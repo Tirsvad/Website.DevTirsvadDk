@@ -14,6 +14,7 @@ reference: 'docs/quality-criteria/ood/lld/qc-oc.md'
 
 ## OC Template (Minimal):
 ```markdown
+# OOD: Operation Contract (OC) for [Insert Project Name]
 ## Metadata
 | Key               | Value                             |
 |-------------------|-----------------------------------|
@@ -37,7 +38,7 @@ reference: 'docs/quality-criteria/ood/lld/qc-oc.md'
 
 ## OC example (Medicine Status for a Resident):
 ```markdown
-# Operation Contract: Medicine Status for a Resident
+# OOD: Operation Contract: Medicine Status for a Resident
 ## Metadata
 | Key            | Value           |
 |----------------|-----------------|

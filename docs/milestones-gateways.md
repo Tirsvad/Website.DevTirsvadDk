@@ -1,11 +1,15 @@
----
-description: Milestones & Gateways documentation for dev.tirsvad.dk. Documents gateways (iterative) and associated use cases, entry/exit criteria, Mermaid diagram, and summary tables.
-name: Milestones & Gateways
-version: 0001
-language: en
----
+# OOA: Milestones & Gateways (Iterative)
 
-# Milestones & Gateways (Iterative)
+## Metadata
+| Key               | Value                             |
+|-------------------|-----------------------------------|
+| Id                | Milestones-Gateways               |
+| crossReference    | FURPS<br>KPI                      |
+
+## Version Log
+| Version | Date       | Description              | Author     |
+|---------|------------|--------------------------|------------|
+| 0001    | 2026-03-29 | Initial                  | Tirsvad    |
 
 ## Mermaid Diagram
 ```mermaid

@@ -1,4 +1,4 @@
-# Quality Criteria for KPI
+# Quality Criteria: KPI
 KPI (Key Performance Indicator) is a measurable value that demonstrates how effectively a company is achieving key business objectives. 
 
 ## Metadata
