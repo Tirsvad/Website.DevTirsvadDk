@@ -221,4 +221,4 @@ Jens Tirsvad Nielsen
 [linkedin-url]: https://www.linkedin.com/in/jens-tirsvad-nielsen-13b795b9/
 
 <!-- Build Status -->
-[build-shield]: https://img.shields.io/github/workflow/status/Tirsvad/Website.DevTirsvadDk/deploy-static-content-to-pages?style=for-the-badge
+[build-shield]: https://img.shields.io/github/actions/workflow/status/Tirsvad/Website.DevTirsvadDk/static-github-pages.yml?branch=main
