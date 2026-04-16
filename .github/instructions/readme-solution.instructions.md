@@ -44,25 +44,46 @@ references:
 
 ## Table of Contents
 
-## Overview
+<a name="overview"></a>
+## 🚀 Overview
 
-## Features
+<a name="solution-goals"></a>
+## 🎯 Solution Goals
 
-## Getting Started
+<a name="architecture"></a>
+## 🏗️ Architecture
 
-### Prerequisites
+<a name="repository-structure"></a>
+## 🗂️ Repository Structure
 
-### Installation
+<a name="prerequisites"></a>
+## 🛠️ Prerequisites
 
-#### Install via NuGet Package Manager Console
+<a name="installation"></a>
+## 📦 Installation
 
-#### Install via Visual Studio NuGet Package Manager
+### 📥 Clone the repository
 
-#### Install via .NET CLI
+### 📦 Restore dependencies
 
-#### Clone the repo ![Repo size][repos-size-shield]
+### 🏗️ Build the solution
 
-## Contact
+### 🧪 Run automated tests
+
+<a name="usage"></a>
+## ▶️ Usage
+
+<a name="documentation"></a>
+## 📝 Documentation
+
+<a name="roadmap"></a>
+## 🗺️ Roadmap
+
+<a name="license"></a>
+## 📄 License
+
+<a name="contact"></a>
+## 📬 Contact
 Jens Tirsvad Nielsen - [LinkedIn][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
