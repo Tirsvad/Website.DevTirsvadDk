@@ -1,4 +1,4 @@
-# Quality Criteria for FURPS+
+# Quality Criteria: FURPS+
 FURPS+ is a software quality model that stands for Functionality, Usability, Reliability, Performance, and Supportability. It is used to evaluate and improve the quality of software products.
 
 ## Metadata

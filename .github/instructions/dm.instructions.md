@@ -14,7 +14,7 @@ reference: 'docs/quality-criteria/ood/hld/qc-dm.md'
 
 ## Template (Minimal):
 ```markdown
-# Domain Model (DM) for [Insert Project Name]
+# OOD: Domain Model (DM) for [Insert Project Name] - [Insert Use Case Identifier if applicable]
 ## Metadata
 | Key               | Value                             |
 |-------------------|-----------------------------------|
@@ -61,7 +61,7 @@ optional sections for product owner domain language:
 
 ## Example (Medicine Status for a Resident):
 ```markdown
-# Domain Model (DM) for Slottets Drifttavlen
+# OOD: Domain Model (DM) for UC-003 Medicine Status for a Resident
 ## Metadata
 | Key               | Value                             |
 |-------------------|-----------------------------------|

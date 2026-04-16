@@ -20,7 +20,7 @@ references:
 ## Template (Minimal):
 
 ```markdown
-# FURPS Quality Model for [Insert Project Name]
+# OOA: FURPS Quality Model for [Insert Project Name]
 
 ## Metadata
 | Key               | Value                             |

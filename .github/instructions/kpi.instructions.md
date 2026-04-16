@@ -16,7 +16,7 @@ reference: 'docs/quality-criteria/ooa/qc-kpi.md'
 
 ## Template (Minimal):
 ```markdown
-# Key Performance Indicators (KPI) for [Insert Project Name]
+# OOA: Key Performance Indicators (KPI) for [Insert Project Name]
 ## Metadata
 | Key               | Value                             |
 |-------------------|-----------------------------------|

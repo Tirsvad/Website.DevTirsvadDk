@@ -38,7 +38,7 @@ Use this as a starting point for any project requiring an ERD. Replace all place
 ## Common Patterns
 ### Good Example
 ```markdown
-# Entity Relationship Diagram (ERD) for [Insert Project Name]
+# OOD: Entity Relationship Diagram (ERD) for [Insert Project Name]
 ## Metadata
 | Key               | Value                             |
 |-------------------|-----------------------------------|

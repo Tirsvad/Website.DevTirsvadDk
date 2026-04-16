@@ -15,7 +15,7 @@ reference: 'docs/quality-criteria/ooa/qc-bc.md'
 
 ## BC Template (Minimal):
 ```markdown
-# Business Case (BC) for [Insert Project Name]
+# OOA: Business Case (BC) for [Insert Project Name]
 ## Metadata
 | Key               | Value                             |
 |-------------------|-----------------------------------|

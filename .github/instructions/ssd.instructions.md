@@ -16,6 +16,7 @@ reference: 'docs/quality-criteria/ood/hld/qc-ssd.md'
 
 ## SSD Template (Minimal):
 ```markdown
+# OOD: System Sequence Diagram for [Insert Use Case Identifier]
 ## Metadata
 | Key            | Value           |
 |----------------|-----------------|

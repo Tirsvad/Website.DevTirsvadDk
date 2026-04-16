@@ -33,7 +33,7 @@ This file provides templates and instructions for documenting project risks and 
 
 ## Template (Minimal):
 ```markdown
-# Risk and Mitigation for [Insert Project Name]
+# OOA: Risk and Mitigation for [Insert Project Name]
 
 ## Metadata
 | Key               | Value                             |

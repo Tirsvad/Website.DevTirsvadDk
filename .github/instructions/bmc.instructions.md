@@ -29,7 +29,7 @@ Use this as a starting point for any project requiring a BMC. Replace all placeh
 ## Common Patterns
 ### Good Example
 ```markdown
-# Business Model Canvas (BMC) for [Insert Project Name]
+# OOA: Business Model Canvas (BMC) for [Insert Project Name]
 
 ## Metadata
 | Key               | Value                             |
