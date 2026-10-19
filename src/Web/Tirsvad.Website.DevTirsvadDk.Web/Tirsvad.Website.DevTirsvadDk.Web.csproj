@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Tirsvad.Website.DevTirsvadDk.Web.Client\Tirsvad.Website.DevTirsvadDk.Web.Client.csproj" />
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="10.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="10.0.13" />
   </ItemGroup>
 
 </Project>
